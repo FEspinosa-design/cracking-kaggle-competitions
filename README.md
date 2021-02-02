@@ -1,7 +1,7 @@
 # Cracking Kaggle competitions
 
 - This repository contains lots of Data Cleaning, Feature Engineering, Exploratory Data Analysis(EDA), and Modelling techniques for kaggle competition submissions.
-- Each competition has its own approach to solve it to get the best results.
+- Each competition has its own approach to solve it to get the best results. 
 
 ### Advice
 If you want to learn something new/advanced i advice you to have a look on this competition:
